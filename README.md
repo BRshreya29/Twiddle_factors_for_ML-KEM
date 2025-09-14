@@ -1,5 +1,3 @@
-# Twiddle_factors_for_ML-KEM
-
 # Area-Efficient Twiddle Factor Design for NTT/INTT Hardware
 
 This repository contains the Verilog/HDL implementation of an **area-efficient twiddle factor computation unit** for the **Number Theoretic Transform (NTT)** and **Inverse NTT (INTT)** used in lattice-based post-quantum cryptography (e.g., **CRYSTALS-Kyber**).  
